@@ -1,9 +1,10 @@
 # Project Department of Defense DroneBot Challenge
 
 Software Team Developers
-> [전수익](https://github.com/wjstndlr) 드론제어
-> [전현배](https://github.com/HarryKito) 드론제어 및 하드웨어 소프트웨어 HAL 개발
+> [전수익](https://github.com/wjstndlr) 드론제어  
+> [전현배](https://github.com/HarryKito) 드론제어 및 하드웨어 소프트웨어 HAL 개발  
 > [김찬우](#) AI 모델링 설계
+>   
 
 <!--
 
