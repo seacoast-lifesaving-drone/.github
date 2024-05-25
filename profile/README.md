@@ -1,18 +1,10 @@
 # Project Department of Defense DroneBot Challenge
+## 임무
+VTOL 기체를 이용하여 해상 특정 좌표로 비행, 비행 중 특이사항(조난자 및 침몰선 발견)에 따른 판단(임무장비: 구명정 투하) 임무 수행 후 복귀
 
 Software Team Developers
-> [전수익](https://github.com/wjstndlr) 드론제어  
-> [전현배](https://github.com/HarryKito) 드론제어 및 하드웨어 소프트웨어 HAL 개발  
+> [***](#) GCS 개발  
+> [전수익](https://github.com/wjstndlr) 드론제어 소프트웨어 개발  
+> [전현배](https://github.com/HarryKito) 드론제어 및 하드웨어 소프트웨어 시뮬레이션  
 > [김찬우](#) AI 모델링 설계
 >   
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
