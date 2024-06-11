@@ -6,4 +6,6 @@ Software Team Developers
 > [전수익](https://github.com/wjstndlr) 드론제어 software development  
 > [전현배](https://github.com/HarryKito) GCS development / 드론제어 및 하드웨어 소프트웨어 시뮬레이션  
 > [김찬우](#) AI 모델링 설계 / Tracking solution development  
->   
+
+
+https://dronebot.mil.kr/drone_notice_view.do;jsessionid=7EbY0RJHcpUC6O_RYW19E7ftKokpwsLCPyHxWxHC.drone-was01
